@@ -54,7 +54,7 @@ for column in range(ncolumns):
 
         # Attach plate reader data
         for wavelength in ['280', '350', '480']:
-            well.set_properties({' absorbance_' + wavelength + 'nm' : data['Abs_' + wavelength]['well_data'][well_name] })
+            well.set_properties({' absorbance_' + wavelength + 'nm' : data['Abs_' + wavelength][well_data][well_name] })
         emission_wavelength = '480'
         for excitation_wavelength in ['280', '350']:
             well.set_properties({'fluorescence_top_ex' + excitation_wavelength + 'nm_em' + emission_wavelength + 'nm' : data[excitation_wavelength + '_TopRead']['well_data'][well_name]})
