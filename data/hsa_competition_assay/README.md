@@ -3,9 +3,13 @@
 Performed by Mehtap Isik.  
 For lab notebook: https://drive.google.com/drive/u/0/folders/0BykO-ZGQb9DHMzBIRWE5NUFQbFU
 
-- Protein: Human Serum Albumin (HSA). HSA stock solution concentration in assay is 0.5 uM.  
+- Protein: Human Serum Albumin (HSA)  
 - Fluorescent probe ligand: Dansylamide
 - Non-fluorescent ligand: Phenylbutazone or Indomethacin
+
+## Protein and Buffer Solutions
+HSA stock solution concentration in this assay is 0.5 uM. It is prepared by dilution of 10.0 uM HSA solution (prepared on 2015/09/10).  
+Buffer: 100 mM sodium phosphate buffer, pH 7.4 (i.e. CB7 Host-Guest Buffer)
 
 ## Plate Layout
 Row A : HSA    + Dansylamide titration  
@@ -16,6 +20,8 @@ Row E : buffer + Dansylamide titration + constant concentration of phenylbutazon
 Row F : buffer + Dansylamide titration + constant concentration of phenylbutazone (50 uM)  
 Row G : HSA    + Dansylamide titration + constant concentration of indomethacin (10 uM)  
 Row H : buffer + Dansylamide titration + constant concentration of indomethacin (50 uM)  
+
+- Plate type: 4ti_0223 (96 well, black clear bottom)  
 
 ## Files
 Infinite data file:  

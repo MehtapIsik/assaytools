@@ -69,3 +69,11 @@ examples/.ipynb_checkpoints/
 
 # PyCharm
 .idea
+
+examples/autoprotocol/.ipynb_checkpoints/example-checkpoint.ipynb
+
+data/hsa_competition_assay/.Rhistory
+
+data/full_example/.ipynb_checkpoints/Exploratory data analysis-checkpoint.ipynb
+
+AssayTools/version.py
